@@ -1,0 +1,36 @@
+h1 {
+    color:#752A2A ;
+    font-family: times;
+    font-size: 300%;
+    margin-left: 350px
+
+}
+h2 {
+	color:#752a2a;
+	font-family: times;
+	margin-left: 350px
+}
+h3 {
+	color:#752A2A;
+	font-family: times;
+	margin-left: 350px
+}
+h4{
+	color:#12655B;
+	font-family: times;
+	margin-left: 350px;
+}
+h5{
+	color:#12655B;
+	font-family: times; 
+	margin-left: 350px;
+}
+p  {
+    color:#12655B;
+    font-family:times;
+    text-align: left;
+    margin-left: 350px
+}
+body{
+	background-color: #c5c5c5;
+}
