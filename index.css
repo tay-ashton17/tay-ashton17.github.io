@@ -1,3 +1,6 @@
+h1 h3 h4 p li {
+	padding-left:55px;
+}
 header {
     color:#ffffff ;
     font-family: verdana, arial, sans-serif;
@@ -13,6 +16,7 @@ h1 {
 	color:#5f5f5f;
 	font-family: verdana, arial, sans-serif;
 	text-shadow: 1px 2px 2px #ffffff;
+	padding-left: 55px;
 }
 h2 {
 	color:#fff;
@@ -23,16 +27,20 @@ h2 {
 h3{
 	color:#5f5f5f;
 	font-family: verdana, arial, sans-serif;
+	padding-left: 55px;
 }
 h4{
 	color:#5f5f5f;
 	font-family: verdana, arial, sans-serif; 
+	padding-left: 55px;
 }
 p  {
     color:#5f5f5f;
     font-family: verdana, arial, sans-serif;
     text-align: left;
     line-height: 26px;
+    padding-left: 55px;
+    padding-right: 55px;
 }
 body{
 	background-color: #e4e4e4;
@@ -52,5 +60,8 @@ li {
 	font-family: verdana, arial, sans-serif;
 	font-size: 15px;
 	color: #5f5f5f;
+	padding-left: 0px;
+	margin-left: 55px;
+	padding-right: 55px;
 	
 }
