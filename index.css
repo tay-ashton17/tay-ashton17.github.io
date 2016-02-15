@@ -1,40 +1,56 @@
-div {
-	border: 2px solid #b7cdbc;
-	background: #b7cdbc;
-	width:500px;
-	border-radius: 25px;
-	padding: 10px 75px;
-	margin-left: 150px;
-}
-
-
-h1 {
-    color:#5f5f5f ;
-    font-family: times;
+header {
+    color:#ffffff ;
+    font-family: verdana, arial, sans-serif;
+    font-weight: bold;
     font-size: 300%;
+    text-shadow: 2px 1px 1px #000000;
+    background-color:#da877b;
+    text-align: center;
+    padding-bottom: 3px;
 
+}
+h1 {
+	color:#5f5f5f;
+	font-family: verdana, arial, sans-serif;
+	text-shadow: 1px 2px 2px #ffffff;
 }
 h2 {
-	color:#5f5f5f;
-	font-family: times;
+	color:#fff;
+	font-family: verdana, arial, sans-serif;
+	font-size: 17px;
+	border-bottom: 10px;
 }
-h3 {
+h3{
 	color:#5f5f5f;
-	font-family: times;
+	font-family: verdana, arial, sans-serif;
 }
 h4{
 	color:#5f5f5f;
-	font-family: times;
-}
-h5{
-	color:#5f5f5f;
-	font-family: times; 
+	font-family: verdana, arial, sans-serif; 
 }
 p  {
     color:#5f5f5f;
-    font-family:times;
+    font-family: verdana, arial, sans-serif;
     text-align: left;
+    line-height: 26px;
 }
 body{
-	background-color: #FFFfFf;
+	background-color: #e4e4e4;
+}
+a {
+	font-family: verdana, arial, sans-serif;
+	font-size: 15px;
+	text-decoration: none;
+	color: #5f5f5f;
+	text-shadow: none;
+	padding-top: 10px
+}
+a hover {
+	background-color: #fff;
+}
+li {
+	font-family: verdana, arial, sans-serif;
+	font-size: 15px;
+	color: #5f5f5f;
+	
 }
